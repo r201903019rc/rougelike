@@ -1,0 +1,22 @@
+﻿Kill,<string0>を倒した
+Death,<string0>は死んでしまった
+Lv_Up,<string0>はレベルが<string1>がった
+Get_Item,<string0>は<string1>を手に入れた
+Cant_Get_Item,もうアイテムは持てない
+Use_Item,<string0>は<string1>を使った
+Throw_Item,<string0>は<string1>を投げた
+No_Effect,しかし何も起きなかった
+Damage_Effect,<string0>に<string1>のダメージ
+AID_Effect,<string0>は<string1>回復した
+MAX_Power_Effect,<string0>の力の上限が<string1>がった
+Power_Effect,<string0>の力が<string1>がった
+HP_Effect,<string0>のHPが<string1>がった
+Warp_Effect,<string0>はワープした
+Sleep_Effect_Start,<string0>は眠ってしまった
+Sleep_Effect_Now,<string0>は眠っている
+Connect_Now,接続中
+Connect_Success,<string0> : 接続完了
+Name_Entry,名前を入力してください
+Room_Host,用意ができたら開始ボタンを押してください。
+Room_Guest,ホストがゲームを開始するまでお待ちください。
+Item_Switch,ランダムなアイテムをもって開始する

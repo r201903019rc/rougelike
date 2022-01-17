@@ -1,0 +1,15 @@
+﻿種類,名前,画像名,使用時の効果種,使用時の効果値(ないときは-1),使用回数,投射時の効果種,投射時の効果値(ないときは-1),使用対象にするメリットがある相手,どのシーンで出現するアイテムか
+Sword,木の棒,Sword_wood,Attack_Damage,2,9,Attack_Damage,2,ANY,BOTH
+Sword,鉄の剣,Sword_main,Attack_Damage,10,3,Attack_Damage,5,ANY,BOTH
+Sword,カタナ,Sword_katana,Attack_Damage,20,2,Const_Damage,3,ANY,BOTH
+Sword,投げナイフ,Sword_knife,Const_Damage,10,3,Const_Damage,10,ANY,BOTH
+Grass,癒せ草,Grass_Aid,Const_Aid,30,1,Const_Aid,30,MINE,BOTH
+Grass,飛び草,Grass_Warp,Warp,-1,1,Warp,-1,MINE,BOTH
+Grass,眠れ草,Grass_Sleep,Sleep,2,1,Sleep,2,ANY,BOTH
+Grass,強くなれ草,Grass_PowUp,Max_Power,2,1,Max_Power,2,MINE,BOTH
+Grass,スタミナ草,Grass_HPUp,HP_Up,5,1,HP_Up,5,MINE,BOTH
+Grass,上がり草,Grass_LvUp,Level,1,1,Level,1,MINE,BOTH
+Grass,下がり草,Grass_LvDown,Level,-1,1,Level,-1,ANY,BOTH
+Grass,毒々草,Grass_PowDown,Power_Down,-3,1,Power_Down,-3,ANY,BOTH
+Scroll,一目瞭然の巻,Scroll_Map,Full_Map,-1,1,Non,-1,MINE,DANGEON
+Scroll,一挙一動の巻,Scroll_Enemy,Enemy_Map,-1,1,Non,-1,MINE,DANGEON
